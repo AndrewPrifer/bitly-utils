@@ -1,0 +1,11 @@
+{
+  "name": "bitly-utils",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "i18n-iso-countries": "^1.7.1",
+    "lodash": "^4.17.2",
+    "superagent": "^3.3.0",
+    "yargs": "^6.5.0"
+  }
+}
